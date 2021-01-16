@@ -1,3 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+#documentation {
+    @apply bg-gray-400 text-spacer;
+}
